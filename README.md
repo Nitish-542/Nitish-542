@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hello, I'm Nitish Sharma 👋
 
-<!--
-**Nitish-542/Nitish-542** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### About Me
+I'm a Web Development student at Humber College, North Campus, with a background in **Computer Applications** (Bachelor’s degree) and experience as a **Zoho Developer**. I’m passionate about creating functional and user-centered web applications and enjoy working with CRM tools to enhance business processes.
 
-Here are some ideas to get you started:
+### 🛠 Skills
+- **Languages**: C#, JavaScript, HTML, CSS, Deluge Script, React.js
+- **Tools**: GitHub, Visual Studio, Microsoft.AspNetCore, Zoho CRM, Zoho Books, Zoho Flow
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Current Project
+- **Mood Playlist Creator**: An app designed to help users create customized music playlists based on their mood. Users can select a mood, view a curated list of songs suited to that mood, and build their personalized playlist by selecting their favorite tracks.
+
+### 🌐 Connect with Me
+- [GitHub Profile](https://github.com/Nitish-542)
+- [LinkedIn](https://www.linkedin.com/in/nitish-sharma-b6ba60226)
+
+Thanks for visiting my profile!
